@@ -24,3 +24,7 @@ m = folium.Map(location=[48.85, 2.35], tiles="Stamen Terrain", zoom_start=10)
 m.save('PNG/CARTO/#288_basic_folium_map8.html')
 m = folium.Map(location=[48.85, 2.35], tiles="OpenStreetMap", zoom_start=10)
 m.save('PNG/CARTO/#288_basic_folium_map9.html')
+
+fdhgdxhgdxghdgdhgfm
+
+
